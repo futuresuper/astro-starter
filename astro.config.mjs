@@ -3,6 +3,6 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
   renderers: ["@astrojs/renderer-svelte"],
   buildOptions: {
     sitemap: false,
-    site: "https://www.futuresuper.com.au",
+    site: "https://www.impactwrap.futuresuper.com.au/",
   },
 });
